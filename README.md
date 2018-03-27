@@ -1,4 +1,6 @@
 # Data Science for Good
+This is a collection of resources around Data Science for Good. It started as a recopilation of the [ODSC](http://opendatascience.com/) articles about Data Science for good [part 1](https://opendatascience.com/blog/data-science-for-good-part-1/), [part 2](https://opendatascience.com/blog/data-science-for-good-part-2/) & part 3. 
+
 
 ## Institutions
 * [Gapminder](http://gapminder.org/)
@@ -15,9 +17,9 @@
 
 ## Projects
 * [UN Sustainable Development Goals](http://www.un.org/sustainabledevelopment/sustainable-development-goals/)
-* [The Social Progress Index](http://www.socialprogressindex.com)
 * [The Dollar Street Project](https://www.gapminder.org/dollar-street)
 * [The Global Partnership for Sustainable Development Data](http://www.data4sdgs.org)
+* [The Social Progress Index](http://www.socialprogressindex.com)
 * [Our World in Data](https://ourworldindata.org/)
 * [Open Data for Development](http://od4d.com/)
 * [The Open Data Index](https://index.okfn.org)
@@ -37,7 +39,8 @@
 ## Resources & Data Sources
 * [Open Corporates](https://opencorporates.com)
 * [Data Collaboratives](http://datacollaboratives.org)
+* [Data.World](https://data.world)
+* [Google Public Data Explorer](https://www.google.com/publicdata/explore)
 * [Open Street Map](http://openstreetmap.org)
 * [Unicef Data Portal](https://data.unicef.org)
 * [The World Bank Open Data Portal](https://data.worldbank.org)
-* [Google Public Data Explorer](https://www.google.com/publicdata/explore)
