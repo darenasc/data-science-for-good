@@ -1,5 +1,5 @@
 # Data Science for Good
-This is a collection of resources around Data Science for Good. It started as a recopilation of the [ODSC](http://opendatascience.com/) articles about Data Science for good [part 1](https://opendatascience.com/blog/data-science-for-good-part-1/), [part 2](https://opendatascience.com/blog/data-science-for-good-part-2/) & part 3. 
+This is a collection of resources around Data Science for Good. It started as a summary of the [ODSC](http://opendatascience.com/) articles about Data Science for good [part 1](https://opendatascience.com/blog/data-science-for-good-part-1/), [part 2](https://opendatascience.com/blog/data-science-for-good-part-2/) & part 3. 
 
 
 ## Institutions
@@ -25,6 +25,7 @@ This is a collection of resources around Data Science for Good. It started as a 
 * [The Open Data Index](https://index.okfn.org)
 * Bloomberg's [Data for Good Exchange](https://www.bloomberg.com/company/d4gx/)
 * [Data for Democracy](http://datafordemocracy.org)
+* [Health Data Collaborative](https://www.healthdatacollaborative.org)
 
 ## People
 * [Angus Deaton](https://en.wikipedia.org/wiki/Angus_Deaton)
@@ -39,6 +40,7 @@ This is a collection of resources around Data Science for Good. It started as a 
 ## Resources & Data Sources
 * [Open Corporates](https://opencorporates.com)
 * [Data Collaboratives](http://datacollaboratives.org)
+* [The Humanitarian Data Exchange](https://data.humdata.org)
 * [Data.World](https://data.world)
 * [Google Public Data Explorer](https://www.google.com/publicdata/explore)
 * [Open Street Map](http://openstreetmap.org)
