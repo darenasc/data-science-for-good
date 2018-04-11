@@ -1,5 +1,5 @@
 # Data Science for Good
-This is a collection of resources around Data Science for Good. It started as a summary of the [ODSC](http://opendatascience.com/) articles about Data Science for good [part 1](http://newsite.opendatascience.com/data-science-for-good-part-1/), [part 2](http://newsite.opendatascience.com/data-science-for-good-part-2/) & [part 3](http://newsite.opendatascience.com/data-science-for-good-part-3/). 
+This is a collection of resources around Data Science for Good. It started as a summary of the [ODSC](http://opendatascience.com/) articles about Data Science for good [part 1](http://opendatascience.com/data-science-for-good-part-1/), [part 2](http://opendatascience.com/data-science-for-good-part-2/) & [part 3](http://opendatascience.com/data-science-for-good-part-3/). 
 
 ## Institutions
 * [Gapminder](http://gapminder.org/)
