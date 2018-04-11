@@ -1,6 +1,5 @@
 # Data Science for Good
-This is a collection of resources around Data Science for Good. It started as a summary of the [ODSC](http://opendatascience.com/) articles about Data Science for good [part 1](https://opendatascience.com/blog/data-science-for-good-part-1/), [part 2](https://opendatascience.com/blog/data-science-for-good-part-2/) & part 3. 
-
+This is a collection of resources around Data Science for Good. It started as a summary of the [ODSC](http://opendatascience.com/) articles about Data Science for good [part 1](http://newsite.opendatascience.com/data-science-for-good-part-1/), [part 2](http://newsite.opendatascience.com/data-science-for-good-part-2/) & [part 3](http://newsite.opendatascience.com/data-science-for-good-part-3/). 
 
 ## Institutions
 * [Gapminder](http://gapminder.org/)
@@ -41,8 +40,33 @@ This is a collection of resources around Data Science for Good. It started as a 
 * [Open Corporates](https://opencorporates.com)
 * [Data Collaboratives](http://datacollaboratives.org)
 * [The Humanitarian Data Exchange](https://data.humdata.org)
+* [Human Progress](https://humanprogress.org)
 * [Data.World](https://data.world)
 * [Google Public Data Explorer](https://www.google.com/publicdata/explore)
 * [Open Street Map](http://openstreetmap.org)
 * [Unicef Data Portal](https://data.unicef.org)
 * [The World Bank Open Data Portal](https://data.worldbank.org)
+* [Big Data. Big Impact.](https://cognitiveclass.ai/socialgood/) course.
+
+## Books
+* [Enlightenment Now](https://www.goodreads.com/book/show/35696171-enlightenment-now)
+* [Factfulness](https://www.goodreads.com/book/show/34890015-factfulness)
+* [The Great Escape](https://www.goodreads.com/book/show/17942017-the-great-escape)
+
+<!--
+* [The Progress Paradox](https://www.goodreads.com/book/show/191230.The_Progress_Paradox)
+* [Infinite Progress](https://www.goodreads.com/book/show/16145206-infinite-progress)
+* [The Infinite Resource](https://www.goodreads.com/book/show/16291969-the-infinite-resource)
+* [The Rational Optimist](https://www.goodreads.com/book/show/7776209-the-rational-optimist)
+* [Utopia for Realists](https://www.goodreads.com/book/show/32856013-utopia-for-realists)
+* [The case for Rational Optimism](https://www.goodreads.com/book/show/6447182-the-case-for-rational-optimism)
+* [Mass Flourishing](https://www.goodreads.com/book/show/17847857-mass-flourishing)
+* [Abundance](https://www.goodreads.com/book/show/13187824-abundance)
+* [The Improving State of the World](https://www.goodreads.com/book/show/409789.The_Improving_State_of_the_World)
+* [Getting Better](https://www.goodreads.com/book/show/10000613-getting-better)
+* [The end of doom](https://www.goodreads.com/book/show/23014684-the-end-of-doom)
+* [The Moral Arc](https://www.goodreads.com/book/show/22320454-the-moral-arc)
+* [The Big Ratchet](https://www.goodreads.com/book/show/18210755-the-big-ratchet)
+* [The Great Surge](https://www.goodreads.com/book/show/25111080-the-great-surge)
+* [The Great Convergence](https://www.goodreads.com/book/show/13587141-the-great-convergence)
+-->
