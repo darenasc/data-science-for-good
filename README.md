@@ -2,17 +2,17 @@
 This is a collection of resources around Data Science for Good. It started as a summary of the [ODSC](http://opendatascience.com/) articles about Data Science for good [part 1](http://opendatascience.com/data-science-for-good-part-1/), [part 2](http://opendatascience.com/data-science-for-good-part-2/) & [part 3](http://opendatascience.com/data-science-for-good-part-3/). 
 
 ## Institutions
-* [Gapminder](http://gapminder.org/)
-* [DataKind](http://www.datakind.org/)
-* [DrivenData](https://www.drivendata.org/)
-* [Flowminder](http://www.flowminder.org)
-* [The Gender Data Movement](http://www.data2x.org)
-* [UN Global Pulse](http://www.unglobalpulse.org/)
-* [Global Witness](https://www.globalwitness.org)
-* [TheGovLab](http://www.thegovlab.org)
-* [The Open Data Institute](http://theodi.org/)
-* [The Open Knowledge Foundation](https://okfn.org)
-* [University of Chicago, Data Science for Social Good](https://dssg.uchicago.edu/)
+* [Gapminder](http://gapminder.org/). Fights devastating misconceptions about global development. Produces free teaching resources making the world understandable based on reliable statistics. Promotes a fact-based worldview everyone can understand.
+* [DataKind](http://www.datakind.org/). Harnessing the power of data science in the service of humanity.
+* [DrivenData](https://www.drivendata.org/). Data science competitions to save the world.
+* [Flowminder](http://www.flowminder.org). Providing priceless information for free for the benefit of those who need it the most.
+* [The Gender Data Movement](http://www.data2x.org). A collaborative technical and advocacy platform dedicated to improving the quality, availability, and use of gender data in order to make a practical difference in the lives of women and girls worldwide.
+* [UN Global Pulse](http://www.unglobalpulse.org/). Harnessing big data for development and humanitarian action.
+* [Global Witness](https://www.globalwitness.org). Exposes the hidden links between demand for natural resources, corruption, armed conflict and environmental destruction.
+* [TheGovLab](http://www.thegovlab.org). Deepening our understanding of how to govern more effectively and legitimately through technology.
+* [The Open Data Institute](http://theodi.org/). Working with companies and governments to build an open, trustworthy data ecosystem, where people can make better decisions using data and manage any harmful impacts.
+* [The Open Knowledge Foundation](https://okfn.org). A world where knowledge creates power for the many, not for the few.
+* [University of Chicago, Data Science for Social Good](https://dssg.uchicago.edu/). We’re training data scientists to tackle problems that really matter.
 
 ## Projects
 * [UN Sustainable Development Goals](http://www.un.org/sustainabledevelopment/sustainable-development-goals/)
@@ -50,9 +50,9 @@ This is a collection of resources around Data Science for Good. It started as a 
 * [Aequitas](http://dsapp.uchicago.edu/aequitas/). An open source bias audit toolkit for machine learning developers, analysts, and policymakers to audit machine learning models for discrimination and bias, and make informed and equitable decisions around developing and deploying predictive risk-assessment tools.
 
 ## Books
-* [Enlightenment Now](https://www.goodreads.com/book/show/35696171-enlightenment-now)
-* [Factfulness](https://www.goodreads.com/book/show/34890015-factfulness)
-* [The Great Escape](https://www.goodreads.com/book/show/17942017-the-great-escape)
+* [Enlightenment Now](https://www.goodreads.com/book/show/35696171-enlightenment-now): The Case for Reason, Science, Humanism, and Progress.
+* [Factfulness](https://www.goodreads.com/book/show/34890015-factfulness): Ten Reasons We're Wrong About the World – and Why Things Are Better Than You Think.
+* [The Great Escape](https://www.goodreads.com/book/show/17942017-the-great-escape): Health, Wealth, and the Origins of Inequality.
 
 <!--
 * [The Progress Paradox](https://www.goodreads.com/book/show/191230.The_Progress_Paradox)
