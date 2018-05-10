@@ -37,16 +37,17 @@ This is a collection of resources around Data Science for Good. It started as a 
 * [The Edinburgh Futures Institute](https://efi.ed.ac.uk)
 
 ## Resources & Data Sources
-* [Open Corporates](https://opencorporates.com)
-* [Data Collaboratives](http://datacollaboratives.org)
-* [The Humanitarian Data Exchange](https://data.humdata.org)
-* [Human Progress](https://humanprogress.org)
-* [Data.World](https://data.world)
+* [Open Corporates](https://opencorporates.com). The largest open database of companies in the world.
+* [Data Collaboratives](http://datacollaboratives.org). Data Collaboratives are a new form of collaboration, beyond the public-private partnership model, in which participants from different sectors — in particular companies - exchange their data to create public value.
+* [The Humanitarian Data Exchange](https://data.humdata.org). Find, share and use humanitarian data all in one place.
+* [Human Progress](https://humanprogress.org). Evidence from individual scholars, academic institutions, and international organizations shows dramatic improvements in human well-being throughout much of the world.
+* [Data.World](https://data.world). We are building the most meaningful, collaborative, and abundant data resource in the world.
 * [Google Public Data Explorer](https://www.google.com/publicdata/explore)
-* [Open Street Map](http://openstreetmap.org)
-* [Unicef Data Portal](https://data.unicef.org)
-* [The World Bank Open Data Portal](https://data.worldbank.org)
+* [Open Street Map](http://openstreetmap.org). OpenStreetMap is a map of the world, created by people like you and free to use under an open licence.
+* [Unicef Data Portal](https://data.unicef.org). Monitoring the Situation of Children and Women.
+* [The World Bank Open Data Portal](https://data.worldbank.org). Free and open access to global development data.
 * [Big Data. Big Impact.](https://cognitiveclass.ai/socialgood/) course.
+* [Aequitas](http://dsapp.uchicago.edu/aequitas/). An open source bias audit toolkit for machine learning developers, analysts, and policymakers to audit machine learning models for discrimination and bias, and make informed and equitable decisions around developing and deploying predictive risk-assessment tools.
 
 ## Books
 * [Enlightenment Now](https://www.goodreads.com/book/show/35696171-enlightenment-now)
