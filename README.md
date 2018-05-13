@@ -48,6 +48,7 @@ This is a collection of resources around Data Science for Good. It started as a 
 * [The World Bank Open Data Portal](https://data.worldbank.org). Free and open access to global development data.
 * [Big Data. Big Impact.](https://cognitiveclass.ai/socialgood/) course.
 * [Aequitas](http://dsapp.uchicago.edu/aequitas/). An open source bias audit toolkit for machine learning developers, analysts, and policymakers to audit machine learning models for discrimination and bias, and make informed and equitable decisions around developing and deploying predictive risk-assessment tools.
+* [ITU AI Repository](https://www.itu.int/en/ITU-T/AI/Pages/ai-repository.aspx). A global Artificial Intelligence (AI) repository to identify AI related projects, research initiatives, think-tanks and organizations that can accelerate progress towards the “17 UN Sustainable Development Goals (SDGs)”.
 
 ## Books
 * [Enlightenment Now](https://www.goodreads.com/book/show/35696171-enlightenment-now): The Case for Reason, Science, Humanism, and Progress.
