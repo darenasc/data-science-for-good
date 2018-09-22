@@ -75,3 +75,6 @@ This is a collection of resources around Data Science for Good. It started as a 
 * [The Great Surge](https://www.goodreads.com/book/show/25111080-the-great-surge)
 * [The Great Convergence](https://www.goodreads.com/book/show/13587141-the-great-convergence)
 -->
+
+## Data Science Marketplaces for Good
+* [Solve for Good](http://solveforgood.org/). DSSG Solve is an online platform for social good organization to post projects they need help with, for volunteers to help scope those projects into well-defined problems, and to help solve those problems.
