@@ -14,6 +14,7 @@ This is a collection of resources around Data Science for Good. It started as a 
 * [The Open Knowledge Foundation](https://okfn.org). A world where knowledge creates power for the many, not for the few.
 * [University of Chicago, Data Science for Social Good](https://dssg.uchicago.edu/). We’re training data scientists to tackle problems that really matter.
 * [AI for Good Foundation](https://ai4good.org). Make the world a better place through AI.
+* [Partnership on AI](https://www.partnershiponai.org). Bringing together diverse, global voices to realize the promise of artificial intelligence.
 
 ## Projects
 * [UN Sustainable Development Goals](http://www.un.org/sustainabledevelopment/sustainable-development-goals/)
@@ -49,6 +50,7 @@ This is a collection of resources around Data Science for Good. It started as a 
 * [The World Bank Open Data Portal](https://data.worldbank.org). Free and open access to global development data.
 * [Big Data. Big Impact.](https://cognitiveclass.ai/socialgood/) course.
 * [Aequitas](http://dsapp.uchicago.edu/aequitas/). An open source bias audit toolkit for machine learning developers, analysts, and policymakers to audit machine learning models for discrimination and bias, and make informed and equitable decisions around developing and deploying predictive risk-assessment tools.
+* [AI for Good Global Summit](https://aiforgood.itu.int). Connecting AI innovators with problem owners for sustainable development.
 * [ITU AI Repository](https://www.itu.int/en/ITU-T/AI/Pages/ai-repository.aspx). A global Artificial Intelligence (AI) repository to identify AI related projects, research initiatives, think-tanks and organizations that can accelerate progress towards the “17 UN Sustainable Development Goals (SDGs)”.
 * [DataViz for Social Good](https://www.vizforsocialgood.com). Harness the power of data visualization for social change.
 * [Humanitarian OpenStreetMap Team](https://www.hotosm.org). Applies the principles of open source and open data sharing for humanitarian response and economic development.
