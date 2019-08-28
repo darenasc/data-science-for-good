@@ -13,6 +13,7 @@ This is a collection of resources around Data Science for Good. It started as a 
 * [The Open Data Institute](http://theodi.org/). Working with companies and governments to build an open, trustworthy data ecosystem, where people can make better decisions using data and manage any harmful impacts.
 * [The Open Knowledge Foundation](https://okfn.org). A world where knowledge creates power for the many, not for the few.
 * [University of Chicago, Data Science for Social Good](https://dssg.uchicago.edu/). We’re training data scientists to tackle problems that really matter.
+* [Data Science for Social Good Foundation](https://www.datascienceforsocialgood.org). Our mission is to create programs that enhance the use of data science, AI, machine learning to create positive social impact in a fair and equitable manner.
 * [AI for Good Foundation](https://ai4good.org). Make the world a better place through AI.
 * [Partnership on AI](https://www.partnershiponai.org). Bringing together diverse, global voices to realize the promise of artificial intelligence.
 
