@@ -40,6 +40,7 @@ This is a collection of resources around Data Science for Good. It started as a 
 * [The Edinburgh Futures Institute](https://efi.ed.ac.uk)
 
 ## Resources & Data Sources
+* [UN Secretary-General’s Roadmap for Digital Cooperation](https://www.un.org/en/content/digital-cooperation-roadmap/). Roadmap advancing a safer, more equitable digital world, one which will lead to a brighter and more prosperous future for all.
 * [Open Corporates](https://opencorporates.com). The largest open database of companies in the world.
 * [Data Collaboratives](http://datacollaboratives.org). Data Collaboratives are a new form of collaboration, beyond the public-private partnership model, in which participants from different sectors — in particular companies - exchange their data to create public value.
 * [The Humanitarian Data Exchange](https://data.humdata.org). Find, share and use humanitarian data all in one place.
@@ -55,11 +56,15 @@ This is a collection of resources around Data Science for Good. It started as a 
 * [ITU AI Repository](https://www.itu.int/en/ITU-T/AI/Pages/ai-repository.aspx). A global Artificial Intelligence (AI) repository to identify AI related projects, research initiatives, think-tanks and organizations that can accelerate progress towards the “17 UN Sustainable Development Goals (SDGs)”.
 * [DataViz for Social Good](https://www.vizforsocialgood.com). Harness the power of data visualization for social change.
 * [Humanitarian OpenStreetMap Team](https://www.hotosm.org). Applies the principles of open source and open data sharing for humanitarian response and economic development.
+* [DataKind Playbook](https://playbook.datakind.org). Global, user-centered knowledge base for implementing a data-for-good project.
+* [Principles for Digital Development](https://digitalprinciples.org). Guidelines that are designed to help integrate best practices into technology-enabled programs.
 
 ## Books
-* [Enlightenment Now](https://www.goodreads.com/book/show/35696171-enlightenment-now): The Case for Reason, Science, Humanism, and Progress.
-* [Factfulness](https://www.goodreads.com/book/show/34890015-factfulness): Ten Reasons We're Wrong About the World – and Why Things Are Better Than You Think.
-* [The Great Escape](https://www.goodreads.com/book/show/17942017-the-great-escape): Health, Wealth, and the Origins of Inequality.
+* [Enlightenment Now](https://www.goodreads.com/book/show/35696171-enlightenment-now): The Case for Reason, Science, Humanism, and Progress, 2018.
+* [Factfulness](https://www.goodreads.com/book/show/34890015-factfulness): Ten Reasons We're Wrong About the World – and Why Things Are Better Than You Think, 2018.
+* [Weapons of Math Destruction](https://www.goodreads.com/book/show/28186015-weapons-of-math-destruction), 2016.
+* [The Great Escape](https://www.goodreads.com/book/show/17942017-the-great-escape): Health, Wealth, and the Origins of Inequality, 2013
+* [Poor Economics](https://www.goodreads.com/book/show/10245602-poor-economics), 2011.
 
 <!--
 * [The Progress Paradox](https://www.goodreads.com/book/show/191230.The_Progress_Paradox)
